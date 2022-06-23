@@ -1,0 +1,5 @@
+numpy
+selenium
+aggdraw
+matplotlib
+
